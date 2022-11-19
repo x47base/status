@@ -111,7 +111,7 @@ body {
 
 .label {
     width: 400px;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
     height: 150px;
     display: flex;
     flex-direction: column;
